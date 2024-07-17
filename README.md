@@ -1,10 +1,10 @@
-Open AI:
 
-URL: https://openaineb2.openai.azure.com
-Key: eaced5fcd8b144fab78ae0a297765377
-Region: eastus
-Deployment Name: Gpt-35
-api-version: 2024-02-15-preview
+Open AI: 
+- URL: https://openaineb2.openai.azure.com
+- Key: eaced5fcd8b144fab78ae0a297765377
+- Region: eastus
+- Deployment Name: Gpt-35
+- api-version: 2024-02-15-preview
 
 # Workshop Semantic Kernel
 
