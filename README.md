@@ -49,8 +49,8 @@ Keep array of messages to pass to call
 </details>
 
 
-### D. Bonus - steaming chat
- If wou would like to get that delayed output feel, you can
+### D. Bonus - streaming chat
+ If you would like to get that delayed output feel, you can
  use the GetStreamChatMessageContentAsync Method:
 
 ### E. Bonus - Plugin
